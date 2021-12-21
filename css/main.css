@@ -325,3 +325,21 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.form-title {
+  margin: 40px 0 0 0;
+  text-align: center;
+}
+
+.form {
+  margin: 40px 0 40px 0;
+  text-align: center;
+}
+
+.form-button {
+  margin: 40px 0 40px 0;
+  padding: 20px;
+  background-color: orangered;
+  color: white;
+  border: none;
+}

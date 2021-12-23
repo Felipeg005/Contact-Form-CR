@@ -329,9 +329,12 @@ li {
 .form-title {
   margin: 40px 0 0 0;
   text-align: center;
+  color: rgb(45, 45, 105);
+  font-family: "Roboto", sans-serif;
 }
 
 .form {
+  font-family: "Roboto", sans-serif;
   margin: 40px 0 40px 0;
   text-align: center;
 }
